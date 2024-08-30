@@ -1,0 +1,11 @@
+{
+  "todos": [
+    { "id": 1, "title": "Learn JavaScript", "completed": false },
+    { "id": 2, "title": "Learn React", "completed": false },
+    { "id": 3, "title": "Build a project", "completed": true }
+  ],
+  "articles": [
+    { "id": 1, "title": "Introduction to React", "author": "John Doe" },
+    { "id": 2, "title": "Advanced JavaScript", "author": "Jane Doe" }
+  ]
+}
